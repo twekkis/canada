@@ -3,7 +3,7 @@
 class page {
 
   public $ext_link;
-  public $square_image='white_square.png';
+  public $square_image='transparent_square.png';
   public $link_text;
   public $content_title;
   public $content_image;
