@@ -2,7 +2,7 @@
 
 $pages[0] = new page();
 $pages[0]->link_text = 'Moi moi';
-//$pages[0]->square_image = "";
+$pages[0]->square_image = "matkalogo.png";
 $pages[0]->content_title = "ja vielä moi";
 //$pages[0]->content_image = "";
 $pages[0]->content_page = 'empty.inc';
