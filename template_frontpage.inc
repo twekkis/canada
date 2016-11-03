@@ -2,9 +2,8 @@
 	<section class="billboard">
 			<div class="wrapper">
 				<div class="caption">
-                                        <p>HIFK D2 2005 -
-                                        Kanada/USA 2017</p>
-				</div>
+				<p>HIFK 05 - Pohjois-Amerikka 2017</p>
+                                </div>
 			</div>
 	</section><!--  End Billboard  -->
 
@@ -13,17 +12,17 @@
 		<div class="info_pic">
 		</div>
 		<div class="info_details info_details2">
-			<h3>HIFK D2 Juniorit</h3>
+			<?php echo "<h3>" . $pages[0]->link_text . "</h3>"?>
 			<p>
-                           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur, Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Joukkue perustettiin keväällä 2012. Joukkueessa aloitti kiekkokoulun jälkeen reilun 40 pelaajan ryhmä innokkaita kiekkoilijan alkuja. Tähän mennessä pojilla on takana siis neljän ja puolen kauden mittainen rupeama kiekkoilun parissa. 
 			</p>
                         <a href=".?0">Lue lisää <span>→</span></a>     
 		</div>
 		
 		<div class="info_details">
-			<h3>Turnausmatka Kanadaan ja Yhdysvaltoihin</h3>
+                        <?php echo "<h3>" . $pages[1]->link_text . "</h3>"?>
 			<p>
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur, Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Kauden 2017 - 18 kohokohdaksi on suunniteltu Pohjois-Amerikkaan toteutettava turnaus- ja pelimatka. Suunnitelmana on tutustua jääkiekon emämaan Kanadan jääkiekkokulttuuriin ja osallistua Toronton alueella pelattavaan isoon kansainväliseen jääkiekkoturnaukseen.
 			</p>
                         <a href=".?1">Lue lisää <span>→</span></a>
 		</div>
@@ -33,9 +32,9 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 		<div class="info_pic3">
 		</div>
 		<div class="info_details">
-			<h3>Kiinnoistaisko sinua tukea meitä?</h3>
+			<?php echo "<h3>" . $pages[2]->link_text . "</h3>"?>
 			<p>
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur, Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Nyt sinulla tai edustamallasi yrityksellä on erinomainen mahdollisuus tukea junioriurheilua ja -kiekkoilua! Aktiivisella varainhankinnalla pyrimme mahdollistamaan turnaus- ja pelireissuun osallistumisen tasapuolisesti kaikille joukkueen pelaajille. 
 			</p>
                         <a href=".?2">Lue lisää <span>→</span></a>
 		</div>

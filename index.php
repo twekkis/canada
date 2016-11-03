@@ -22,7 +22,7 @@ include ('content.inc');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title>HIFK D2 2005 - Kanada/USA 2017</title>
+        <title>HIFK 05 - Pohjois-Amerikka 2017</title>
         <meta http-equiv="Content-Type">
         <meta content="text/html">
         <meta charset="utf-8">
@@ -53,9 +53,18 @@ include ('content.inc');
                         <a href="." class="menu_icon" id="menu_icon"></a>
                         <nav id="nav_menu">
                                 <ul>
-                                        <li><a href=".?0">HIFK D2 2005 Joukkue</a></li>
-                                        <li><a href=".?1">Kanada/Usa pelimatka</a></li>
+                                    <?php
+                                       foreach ($pages as $ind => $page) {
+                                         if($page->link_in_sidebar != null) {
+                                           echo "<li><a href=.?" . $ind . ">" . $page->link_text . "</a></li>";
+                                         }
+                                       }
+                                    ?>
+<!--
+                                        <li><a href=".?0">HIFK E1 Joukkue</a></li>
+                                        <li><a href=".?1">Pohjois-Amerikan matka</a></li>
                                         <li><a href=".?2">Tue meitä</a></li>
+-->
                                 </ul>
                         </nav>
 <!--
@@ -78,15 +87,6 @@ include ('content.inc');
                    }
                 ?>
         </section><!-- end main -->
-<!--
-        <footer>
-                <img src="img/olomielilogo_black.png" alt="Olo&Mieli" class="logo_black">
-                <p class="contact">Hyvinvointivalmennus Olo&Mieli - Y-tunnus: 2712069-4 </p>
-                <p class="contact">Yhteystiedot: 040 939 8545 -
-                        niina<img src="img/at.jpg" alt='@'>olomieli<img src="img/dot.jpg" alt='.'>net -
-                        Luontaisterveyskeskus ProHyvinvointi, Laulukuja 4, 00420 Helsinki
-                </p>
-    </footer>--><!--  End Footer  -->
     <div class=copy>
         <p class="rights">Web copyright © template: www.pixelhint.com, images: www.pixabay.com, icons: www.freepik.com, www.flaticon.com - All rights reserved</p>
     </div>
