@@ -22,7 +22,7 @@ include ('content.inc');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title>HIFK D1 2004 - Kanada/USA 2017</title>
+        <title>HIFK D2 2005 - Kanada/USA 2017</title>
         <meta http-equiv="Content-Type">
         <meta content="text/html">
         <meta charset="utf-8">
@@ -53,7 +53,7 @@ include ('content.inc');
                         <a href="." class="menu_icon" id="menu_icon"></a>
                         <nav id="nav_menu">
                                 <ul>
-                                        <li><a href=".?0">HIFK D1 2005 Joukkue</a></li>
+                                        <li><a href=".?0">HIFK D2 2005 Joukkue</a></li>
                                         <li><a href=".?1">Kanada/Usa pelimatka</a></li>
                                         <li><a href=".?2">Tue meitä</a></li>
                                 </ul>

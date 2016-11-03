@@ -2,7 +2,7 @@
 	<section class="billboard">
 			<div class="wrapper">
 				<div class="caption">
-                                        <p>HIFK D1 2005 -
+                                        <p>HIFK D2 2005 -
                                         Kanada/USA 2017</p>
 				</div>
 			</div>
@@ -13,10 +13,11 @@
 		<div class="info_pic">
 		</div>
 		<div class="info_details info_details2">
-			<h3>HIFK D1 Juniorit</h3>
+			<h3>HIFK D2 Juniorit</h3>
 			<p>
                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur, Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-			</p>     
+			</p>
+                        <a href=".?0">Lue lisää <span>→</span></a>     
 		</div>
 		
 		<div class="info_details">
@@ -24,6 +25,7 @@
 			<p>
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur, Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 			</p>
+                        <a href=".?1">Lue lisää <span>→</span></a>
 		</div>
         <div class="info_pic2">
 		</div>
@@ -35,6 +37,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 			<p>
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur, Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 			</p>
+                        <a href=".?2">Lue lisää <span>→</span></a>
 		</div>
 		
 	</section><!--  End Info  -->
@@ -48,7 +51,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 			<div class="t">
 		            <p>Mahtava kaksi viikkoa tulossa! Nää on ihan huippu jätkiä ja aina innoissaan hallilla ja peleissä. Tosi upeaa lähteä reissuun ja saada elämys pojille
 			    </p>
-                            <p class="author">John Smith - Joukkueenjohtaja</p>   
+                            <p class="author">Teppo Teikäläinen - Joukkueenjohtaja</p>   
 			</div>
 			<div class="t">
 			    <p>
