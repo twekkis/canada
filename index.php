@@ -49,7 +49,7 @@ include ('content.inc');
 
        <header>
                 <div class="wrapper">
-                        <a href="."><img src="img/pages/transparentlogo.png" alt="logo" class="logo"></a>
+                        <a href="."><img src="img/pages/logo.png" alt="logo" class="logo"></a>
                         <a href="." class="menu_icon" id="menu_icon"></a>
                         <nav id="nav_menu">
                                 <ul>

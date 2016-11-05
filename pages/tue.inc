@@ -1,3 +1,4 @@
+<div class="column_left">
 <h2>Tue junioriurheilua ja -kiekkoilua</h2>
 <p>				
 Nyt sinulla tai edustamallasi yrityksellä on erinomainen mahdollisuus tukea junioriurheilua ja -kiekkoilua! 
@@ -15,3 +16,7 @@ tai tällä sivustolla. Olemme myös avoimia muillekin hyville yhteistyöehdotuk
 Mikäli kiinnostuit tukimahdollisuudesta, niin ota yhteyttä joko joukkueen johtajaan tai 
 varainhankinnan koordinaattoriin. Autamme sinua mielellämme asian kanssa. 
 </p>
+</div>
+<div class="column_right sponsors">
+<h2>Yhteistyökumppanimme</h2>
+</div>

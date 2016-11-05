@@ -126,6 +126,12 @@ div .column_right {
   align: right;
 }
 
+div .sponsors {
+  border-left: solid 1px;
+  border-color: #4b4848;
+  margin-left: 30px;
+  padding-left: 30px;
+}
 
 /*  Header  */
 @media (min-width:1099px){
@@ -136,6 +142,11 @@ div .column_right {
    div .column_right {
      float: left;
      max-width: 400px;
+   }
+   div .sponsors {
+     border-left: solid 1px;
+     padding-left: 30px;
+     margin-left: 30px;
    }
 }
 
@@ -337,6 +348,12 @@ div .column_right {
         max-width: 100%;
         float: none;
     }
+
+   div .sponsors {
+     border-left: solid 0px;
+     padding-left: 0px;
+     margin-left: 0px;
+   }
 }
 /*
 @media (max-width:550px){

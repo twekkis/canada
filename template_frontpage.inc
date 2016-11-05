@@ -48,20 +48,15 @@ Nyt sinulla tai edustamallasi yrityksellä on erinomainen mahdollisuus tukea jun
 		<!--<h2>Testimonials</h2>-->
 		<div class="testi_slider" id="tslider">
 			<div class="t">
-		            <p>Mahtava kaksi viikkoa tulossa! Nää on ihan huippu jätkiä ja aina innoissaan hallilla ja peleissä. Tosi upeaa lähteä reissuun ja saada elämys pojille
-			    </p>
-                            <p class="author">Teppo Teikäläinen - Joukkueenjohtaja</p>   
+                            <p>Kommentti #1</p><p class="author">Kommentoija #1</p>   
 			</div>
 			<div class="t">
-			    <p>
-                            Rennosti lähetään katsomaan miltä peli näyttää rapakon tuolla puolen, kovaa mennään mutta pilke silmäkulmassa!
-			    </p>
-                            <p class="author">Matti Meikäläinen - Valmentaja</p>
+		            <p>Kommentti #2</p>
+                            <p class="author">Kommentoija #2</p>
 			</div>
 			<div class="t">
-		    	<p>Makee lähtee pelaa jenkkeihin! NHL-matsi pitää nähdä myös!
-			    </p> 
-                            <p class="author">Timo Sentteri - Kapteeni</p>
+			    <p>Kommentti #3</p> 
+                            <p class="author">Kommentoija #3</p>
 			</div>
 		</div>
 		<div id="t_navigation"></div>
@@ -74,19 +69,22 @@ Nyt sinulla tai edustamallasi yrityksellä on erinomainen mahdollisuus tukea jun
 		<div class="wrapper">
 				<div class="feature">
 					<div class="ficon">
-						<img src="img/pages/company1.jpg" alt="">
+						<img src="img/pages/company1.jpg" alt="" style="height:150%; width:150%;">
 					</div>
+<!--
 					<div class="details_exp">
 						<h3>Pizza-online</h3>
 						<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur,
 						</p>
 						<a href=".?1">Lue lisää...<span>→</span></a>
 					</div>
+-->
 				</div>
 				<div class="feature">
 					<div class="ficon">
 						<img src="img/pages/company2.jpg" alt="">
 					</div>
+<!--
 					<div class="details_exp">
 						<h3>Nollasähkö Oy</h3>
 						
@@ -94,18 +92,21 @@ Nyt sinulla tai edustamallasi yrityksellä on erinomainen mahdollisuus tukea jun
                                                 </p>
                                                 <a href=".?2">Lue lisää...<span>→</span></a>
 					</div>
+-->
 				</div>
 				<div class="feature">
 					<div class="ficon">
 						<img src="img/pages/company3.jpg" alt="">
 					</div>
+<!--
 					<div class="details_exp">
 						<h3>CyberTalo Ltd</h3>
 
                                                 <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur,
                                                 </p>
-						<!--<a href=".?3">Lue lisää...<span>→</span></a>-->
+						<a href=".?3">Lue lisää...<span>→</span></a>
 					</div>
+-->
 				</div>
 
 			</div>

@@ -117,7 +117,7 @@ header nav{
     display: inline-block;
     margin: 20px 0 0 40px;
     padding: 13px 40px;
-    border-left: 1px #404040 solid;
+    border-left: 0px #404040 solid;
     z-index: 9999;
 }
 
@@ -360,8 +360,9 @@ header ul.social li a.gplus{
 }
 
 .feature .ficon{
-    display: block;
-    width: 18.78612716763006%;
+    display: none; /*Change back to block when getting sponsors*/
+    /*width: 18.78612716763006%;*/
+    width: 70%;
     float: left;
     margin-right: 11.5606936416185%;
 }
