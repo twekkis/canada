@@ -4,7 +4,7 @@ $pages[0] = new page();
 $pages[0]->link_text = 'HIFK 05 Juniorit';
 $pages[0]->square_image = "matkalogo.png";
 $pages[0]->content_title = "Joukkue";
-$pages[0]->content_image = "pelikuva_yla.jpg";
+$pages[0]->content_image = "joukkuekuva_yla.jpg";
 $pages[0]->content_page = 'joukkue.inc';
 $pages[0]->link_in_sidebar = "yes";
 

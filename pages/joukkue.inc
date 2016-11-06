@@ -33,7 +33,7 @@ Joukkueeseen ja sen toimintaan voi tutustua tarkemmin oheisten linkkien kautta:
 <div class="column_right">
  <div class="fb-page" data-href="https://www.facebook.com/hifk05/" 
 data-tabs="timeline" data-width="350" data-height="700" 
-data-small-header="false" data-adapt-container-width="false" 
+data-small-header="true" data-adapt-container-width="false" 
 data-hide-cover="false" data-show-facepile="false">
 
 <blockquote cite="https://www.facebook.com/hifk05/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/hifk05/">HIFK E05</a></blockquote></div>
