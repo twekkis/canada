@@ -1,6 +1,22 @@
-<?php
-		echo "<section class='top' style='background: url(img/pages/" . $pages[$page_no]->content_image . ") no-repeat;'>";	
-?>
+<style type ="text/css">
+
+
+.top{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('img/pages/<?php echo $pages[$page_no]->content_image ?>') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
+
+</style>
+                 <section class="top">
 			<div class="wrapper_sub content_header clearfix">
 <!--
 				<div class="work_nav">
