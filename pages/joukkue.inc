@@ -9,15 +9,17 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="column_left">
-<h2>Tausta</h2>	
+<h2>Joukkue</h2>
 <p>
-Joukkue perustettiin keväällä 2012. Joukkueessa aloitti kiekkokoulun jälkeen reilun 40 pelaajan ryhmä innokkaita kiekkoilijan alkuja. 
-Tähän mennessä pojilla on takana siis neljän ja puolen kauden mittainen rupeama kiekkoilun parissa. 
-Muutama poika on matkan varrella vaihtunut tai tullut joukkueeseen lisää, mutta suurin osa pojista on ollut alusta alkaen mukana. 
+Joukkue on osa HIFK Juniors -perhettä, jossa ovat mukana joukkueet pienimmistä G -junioreista aina A
+-junioreihin saakka. IFK:ssa kehitetään pelaajia sekä kaukalossa että sen ulkopuolella. Tavoitteena on edesauttaa pelaajien laaja-alaista kasvua ja kehitystä sekä kehittää lasten ja nuorten asennetta siten, että se tukisi heidän menestymistään niin koulussa, kaukalossa kuin muussakin elämässä aktiivisen kiekkouran jälkeen.
+<br/>
+<br/>
+05 -joukkue perustettiin keväällä 2012. Joukkueessa aloitti kiekkokoulun jälkeen reilun 40 pelaajan ryhmä innokkaita kiekkoilijan alkuja. Tähän mennessä pojilla on takana noin viiden - kuuden vuoden mittainen rupeama kiekkoilun parissa. Muutama poika on matkan varrella vaihtunut tai tullut joukkueeseen lisää, mutta suurin osa pojista on ollut alusta alkaen mukana. Kehitystä ja hauskaa tekemistä on koettuna jo siis reilu annos, ja intoa kiekkoiluun riittää edelleen!
 </p>
 <h2>Kausi 2016-17</h2>
 <p>
-Joukkueen koko tällä hetkellä noin 30 poikaa. Innokkaat pojat ovat kehittyneet suurin askelein kiekkoilijan urallaan, 
+Joukkueen koko tällä hetkellä noin 30 poikaa. Innokkaat pojat ovat kehittyneet suurin askelin kiekkoilijan urallaan, 
 ja muutos ensimmäisistä vuosista on suuri. Tällä kaudella osallistumme kahdella joukkueella jääkiekkoliiton eteläisen 
 alueen sarjaan, pelaamme harjoitusotteluita ja harjoittelemme noin neljä kertaa viikossa.
 </p>
