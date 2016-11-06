@@ -9,8 +9,8 @@ $pages[0]->content_page = 'joukkue.inc';
 $pages[0]->link_in_sidebar = "yes";
 
 $pages[1] = new page();
-$pages[1]->link_text = 'Pohjois-Amerikan turnaus- ja pelimatka';
-$pages[1]->content_title = null;
+$pages[1]->link_text = 'Turnaus- ja pelimatka';
+$pages[1]->content_title = "Pohjois-amerikka";
 $pages[1]->content_page = 'matka.inc';
 $pages[1]->content_image = "turnaus.jpg";
 $pages[1]->link_in_sidebar = "yes";
