@@ -12,7 +12,7 @@
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-position: 50% 50%;
+    background-position: 50% 30%;
 }
 
 </style>
