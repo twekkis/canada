@@ -48,8 +48,9 @@ Nyt sinulla tai edustamallasi yrityksellä on erinomainen mahdollisuus tukea jun
 		<!--<h2>Testimonials</h2>-->
 		<div class="testi_slider" id="tslider">
 			<div class="t">
-                            <p>Kommentti #1</p><p class="author">Kommentoija #1</p>   
+                            <p>Hienoa päästä pelaamaan, toivottavasti vedetään hyvin! NHL-matsi ois makee nähdä!</p><p class="author">Aaro #23</p>   
 			</div>
+<!--
 			<div class="t">
 		            <p>Kommentti #2</p>
                             <p class="author">Kommentoija #2</p>
@@ -58,6 +59,7 @@ Nyt sinulla tai edustamallasi yrityksellä on erinomainen mahdollisuus tukea jun
 			    <p>Kommentti #3</p> 
                             <p class="author">Kommentoija #3</p>
 			</div>
+-->
 		</div>
 		<div id="t_navigation"></div>
 		<span class="sep_line sep_bottom"></span>

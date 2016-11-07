@@ -13,8 +13,11 @@ tai tällä sivustolla. Olemme myös avoimia muillekin hyville yhteistyöehdotuk
 </p>
 <h2>Ota yhteyttä</h2>
 <p>
-Mikäli kiinnostuit tukimahdollisuudesta, niin ota yhteyttä joko joukkueen johtajaan tai 
-varainhankinnan koordinaattoriin. Autamme sinua mielellämme asian kanssa. 
+Mikäli kiinnostuit tukimahdollisuudesta, niin ota yhteyttä. Autamme sinua mielellämme asian kanssa. 
+
+<br/>
+<br/>
+info<img src="img/pages/at.jpg" alt='@'>hifk05turnausmatka<img src="img/pages/dot.jpg" alt='.'>net 
 </p>
 </div>
 <div class="column_right sponsors">
