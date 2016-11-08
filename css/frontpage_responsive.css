@@ -19,8 +19,6 @@
 	
 */
 
-
-
 /*  Fonts  */
 @font-face {
     font-family: 'lato_regular';
@@ -360,7 +358,7 @@ header ul.social li a.gplus{
 }
 
 .feature .ficon{
-    display: none; /*Change back to block when getting sponsors*/
+    display: block; /*Change back to block when getting sponsors*/
     /*width: 18.78612716763006%;*/
     width: 70%;
     float: left;

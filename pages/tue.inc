@@ -22,4 +22,5 @@ info<img src="img/pages/at.jpg" alt='@'>hifk05turnausmatka<img src="img/pages/do
 </div>
 <div class="column_right sponsors">
 <h2>Yhteistyökumppanimme</h2>
+<a href="http://www.hedman-attorneys.com" target="_sponsors_">Hedman Partners</a>
 </div>

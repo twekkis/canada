@@ -71,46 +71,9 @@ Nyt sinulla tai edustamallasi yrityksellä on erinomainen mahdollisuus tukea jun
 		<div class="wrapper">
 				<div class="feature">
 					<div class="ficon">
-						<img src="img/pages/company1.jpg" alt="" style="height:150%; width:150%;">
+						<img src="img/sponsors/hedmanpartners.jpg" alt="">
 					</div>
-<!--
-					<div class="details_exp">
-						<h3>Pizza-online</h3>
-						<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur,
-						</p>
-						<a href=".?1">Lue lisää...<span>→</span></a>
-					</div>
--->
 				</div>
-				<div class="feature">
-					<div class="ficon">
-						<img src="img/pages/company2.jpg" alt="">
-					</div>
-<!--
-					<div class="details_exp">
-						<h3>Nollasähkö Oy</h3>
-						
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur,
-                                                </p>
-                                                <a href=".?2">Lue lisää...<span>→</span></a>
-					</div>
--->
-				</div>
-				<div class="feature">
-					<div class="ficon">
-						<img src="img/pages/company3.jpg" alt="">
-					</div>
-<!--
-					<div class="details_exp">
-						<h3>CyberTalo Ltd</h3>
-
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu pariatur,
-                                                </p>
-						<a href=".?3">Lue lisää...<span>→</span></a>
-					</div>
--->
-				</div>
-
 			</div>
 
 	</section><!--  End Features  -->
