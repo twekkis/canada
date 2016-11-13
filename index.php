@@ -29,6 +29,7 @@ include ('content.inc');
         <meta name="author" content="">
         <meta name="description" content=""/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+        <link rel="shortcut icon" href="img/pages/favicon.png" />
         <link rel="stylesheet" type="text/css" href="css/reset.css">
         <link rel="stylesheet" type="text/css" href="css/subpage_responsive.css">
         <link rel="stylesheet" type="text/css" href="css/frontpage_responsive.css">
