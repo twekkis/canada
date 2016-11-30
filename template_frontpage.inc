@@ -74,6 +74,21 @@ Nyt sinulla tai edustamallasi yrityksellä on erinomainen mahdollisuus tukea jun
 						<img src="img/sponsors/hedmanpartners.jpg" alt="">
 					</div>
 				</div>
-			</div>
+                                <div class="feature">
+                                        <div class="ficon">
+                                                <img src="img/sponsors/TEHOSport.png" alt="">
+                                        </div>
+                                </div>
+                                <div class="feature">
+                                        <div class="ficon">
+                                                <img src="img/sponsors/SBIpartner.jpg" alt="">
+                                        </div>
+                                </div>
+                                <div class="feature">
+                                        <div class="ficon">
+                                                <img src="img/sponsors/telva80.jpg" alt="">
+                                        </div>
+                                </div>
+		</div>
 
 	</section><!--  End Features  -->

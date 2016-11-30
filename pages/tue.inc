@@ -22,5 +22,13 @@ info<img src="img/pages/at.jpg" alt='@'>hifk05turnausmatka<img src="img/pages/do
 </div>
 <div class="column_right sponsors">
 <h2>Yhteistyökumppanimme</h2>
-<a href="http://www.hedman-attorneys.com" target="_sponsors_">Hedman Partners</a>
+
+<h6><a href="http://www.hedman-attorneys.com" target="_sponsors_">Hedman Partners</a></h6>
+<h6><a href="http://tehosport.fi" target="_sponsors_">TEHO Sport</a></h6>
+<h6><a href="http://sbipartner.com" target="_sponsors_">SBI Partner</a></h6>
+<h6><a href="http://www.telva.fi" target="_sponsors_">Telva</a></h6>
+<h6>Ventoniemi Oy</h6>
+<h6>Kiriprint Oy</h6>
+<h6>Dhollandia Finland Oy</h6>
+<h6>Kuljetus J.Kiviranta Oy</h6>
 </div>
