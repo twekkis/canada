@@ -550,7 +550,6 @@ header ul.social li a.gplus{
     -moz-background-size: cover;
     -o-background-size: cover;
 }
-
 .info_pic3{
     display: block;
     width: 50%;
@@ -558,6 +557,18 @@ header ul.social li a.gplus{
     float: left;
     background: url('../img/pages/HIFK_tuemeita.jpg') no-repeat;
 
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.info_pic4{
+    display: block;
+    width: 50%;
+    height: 405px;
+    float: left;
+    background: url('../img/pages/kalenteri.png') no-repeat;
+    
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -733,6 +744,7 @@ a{
     .info_pic,
     .info_pic2,
     .info_pic3,
+    .info_pic4,
     .info_details{
         width: 100%;
     }

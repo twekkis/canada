@@ -22,20 +22,7 @@ $pages[2]->content_image = "joukkue_jaalla.jpg";
 $pages[2]->link_in_sidebar = "yes";
 
 $pages[3] = new page();
-$pages[3]->ext_link = "#";
-$pages[3]->link_text = "externallink.fi";
-
-$pages[4] = new page();
-
-$pages[5] = new page();
-
-$pages[6] = new page();
-
-$pages[7] = new page();
-
-$pages[8] = new page();
-
-$pages[9] = new page();
+$pages[3]->link_text = 'Pysy ajantasalla vuonna 2017';
 
 
 ?>
