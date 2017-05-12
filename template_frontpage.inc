@@ -3,6 +3,7 @@
 			<div class="wrapper">
 				<div class="caption">
 				<p>HIFK 05 - Pohjois-Amerikka 2017</p>
+                                <p>Toronto & Minnesota</p>
                                 </div>
 			</div>
 	</section><!--  End Billboard  -->
@@ -38,17 +39,6 @@ Nyt sinulla tai edustamallasi yrityksellä on erinomainen mahdollisuus tukea jun
 			</p>
                         <a href=".?2">Lue lisää <span>→</span></a>
 		</div>
-                <div class="info_details">
-                        <?php echo "<h3>" . $pages[3]->link_text . "</h3>"?>
-                        <p>
-Mitä tapahtuu vuonna 2017... pidä huoli että pysyt ajantasalla! Osta joukkueemme kalenteri, mukana juhlapyhät ja nimipäivät sekä makeet kuvat! 
-<br><br>Hinta vain <b>10 euroa</b> ja kaikki menee matkamme tueksi.
-                        </p>
-                        <a href="http://www.huuto.net/kohteet/hifk-05-juniorikalenteri-2017/433948019">Osta täältä</span></a>
-                </div>
-                <div class="info_pic4">
-                
-		</div>		
 	</section><!--  End Info  -->
     
 	<section class="testimonials wrapper">

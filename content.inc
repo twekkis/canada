@@ -21,8 +21,5 @@ $pages[2]->content_page = 'tue.inc';
 $pages[2]->content_image = "joukkue_jaalla.jpg";
 $pages[2]->link_in_sidebar = "yes";
 
-$pages[3] = new page();
-$pages[3]->link_text = 'Pysy ajantasalla vuonna 2017';
-
 
 ?>
