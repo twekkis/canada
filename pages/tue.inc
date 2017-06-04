@@ -17,7 +17,7 @@ Mikäli kiinnostuit tukimahdollisuudesta, niin ota yhteyttä. Autamme sinua miel
 
 <br/>
 <br/>
-info<img src="img/pages/at.jpg" alt='@'>hifk05turnausmatka<img src="img/pages/dot.jpg" alt='.'>net 
+tomi<img src="img/pages/dot.jpg">kivenjuuri<img src="img/pages/at.jpg" alt='@'>hifk<img src="img/pages/dot.jpg" alt='.'>fi 
 </p>
 </div>
 <div class="column_right sponsors">
