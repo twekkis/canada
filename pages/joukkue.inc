@@ -28,7 +28,6 @@ alueen sarjaan, pelaamme harjoitusotteluita ja harjoittelemme noin neljä kertaa
 Joukkueeseen ja sen toimintaan voi tutustua tarkemmin oheisten linkkien kautta:
 <br/><br/>
 <a href="http://www.hifkjrs.com/jengit2016/2016_jengi.php?jengi=e05">Joukkueen sivut</a><br/>
-<a href="http://www.tilastopalvelu.fi/ih/index.php?option=com_content&view=article&id=4&stgid=3756">Sarjapelit</a><br/>
 <a href="https://www.facebook.com/hifk05">Facebook</a>
 </p>
 </div>
