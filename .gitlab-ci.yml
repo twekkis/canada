@@ -1,0 +1,5 @@
+package:
+  image: docker:nginx
+  script: echo test
+  only: 
+    - development
