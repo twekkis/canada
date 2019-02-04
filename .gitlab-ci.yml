@@ -1,5 +1,5 @@
 package:
-  image: docker:nginx
+  image: nginx
   script: echo test
   only: 
     - development
